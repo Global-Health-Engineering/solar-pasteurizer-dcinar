@@ -32,13 +32,13 @@ Temperature and irradiance data were continuously recorded and are available in 
 
 This work demonstrates the feasibility of decentralized solar-driven sludge treatment and offers a scalable, adaptable solution for improving sanitation in off-grid environments. Further work is needed to optimize thermal retention, validate system performance under variable climatic conditions, and explore automated flow control for enhanced consistency.
 
-![](img/other_figures/swh.jpg)
+![](img/swh.jpg)
 
 # Data & system overview
 
 The data in `data/raw_data` directory, together with the metadata in `data/metadata/metadata.csv` are the temperature and solar irradiance measurements collected from the points in the system presented on the figure below.
 
-![](img/other_figures/swh_PandID_with_sensors.png)
+![](img/swh_PandID_with_sensors.png)
 
 # License
 
