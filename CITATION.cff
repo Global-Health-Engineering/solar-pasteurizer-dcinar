@@ -3,7 +3,7 @@ message: "To cite this repository, use:"
 license: CC-BY-4.0
 title: "Data Underlying the Study on Improving the Solar Sludge Pasteurization Technology"
 date-released: "2025-04-14"
-doi: DOI
+doi: 10.5281/zenodo.15223263
 type: software
 authors:
   - family-names: Cinar
